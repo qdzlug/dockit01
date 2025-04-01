@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or issues, please feel free to open an issue in the repository or contact us at support@example.com.
+If you have any questions or issues, please feel free to open an issue in the repository or contact us at jay@jayschmidt.us.
